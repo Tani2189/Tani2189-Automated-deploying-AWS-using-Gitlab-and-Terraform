@@ -75,11 +75,3 @@ To get started with the project, follow these steps:
 ## Contributing
 
 Feel free to submit issues or pull requests. Contributions are welcome!
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-```
-
-You can replace placeholders like `yourusername` and `your-repo-name` with your actual GitHub username and the name of the repository. Adjust any sections to better fit your project’s specifics as needed!
