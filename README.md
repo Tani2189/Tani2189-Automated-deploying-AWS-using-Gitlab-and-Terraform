@@ -56,8 +56,8 @@ To get started with the project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/Tani2189/Tani2189-Automated-deploying-AWS-using-Gitlab-and-Terraform
+   cd 
    ```
 
 2. Initialize Terraform:
